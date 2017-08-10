@@ -1,0 +1,4 @@
+Get GPS coordinate
+Get preiod of time
+Set todo with periods
+Config files
